@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(April 14, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Allison McElyea)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment we learned about AJAX, JSON and API.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://github.com/alliemcelyea/lesson8_ajax)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (A lesson we learned in this assignment was how to update data within the index.html using AJAX.)
+2. (Another lesson we learned in this assignment was how to use an HTTP request and how to interpret and HTTP response.)
+3. (Another lesson we learned in this assignment was how to process and add data to the DOM, and use JSON to update our webpage.)
